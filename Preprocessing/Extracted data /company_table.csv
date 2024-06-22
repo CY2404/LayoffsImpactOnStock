@@ -1,0 +1,31 @@
+CompanyID,CompanyName,Description,SizeOfCompany,TotalEmployee,Location,IndustryID,RegionID
+6,Enphase Energy Inc,Energy,3150,3500,San Francisco Bay Area,I434,R1993
+21,Etsy Inc,Retail,1820,2045,New York City,I395,R1046
+56,Unity Software Inc,Other,6360,6625,San Francisco Bay Area,I078,R1993
+91,Tripadvisor Inc,Travel,3000,3125,Boston,I522,R1084
+311,SecureWorks Corp,Security,1700,2000,Atlanta,I890,R1428
+328,Thoughtworks Holding Inc,Other,11001,11580,Chicago,I711,R1974
+504,Uber Technologies Inc,Transportation,19877,20077,San Francisco Bay Area,I424,R1993
+530,TrueCar Inc,Transportation,323,425,Los Angeles,I674,R1995
+540,Chegg Inc,Education,1920,2000,San Francisco Bay Area,I804,R1993
+562,Reddit Inc,Consumer,1710,1800,San Francisco Bay Area,I455,R1993
+628,Lemonade Inc,Finance,1455,1500,New York City,I835,R1046
+688,Dropbox Inc,Other,2625,3125,San Francisco Bay Area,I398,R1993
+690,Vroom Inc,Transportation,971,1091,New York City,I688,R1046
+709,LYFT Inc,Transportation,3051,4123,San Francisco Bay Area,I686,R1993
+712,Buzzfeed Inc,Media,1020,1200,New York City,I243,R1046
+721,Opendoor Technologies Inc,Real Estate,1985,2545,San Francisco Bay Area,I633,R1993
+800,Lucid Group Inc,Transportation,5922,7222,San Francisco Bay Area,I987,R1993
+829,Amazon.com Inc,Retail,383000,392000,Seattle,I485,R1415
+846,Meta Platforms Inc,Consumer,63615,73615,San Francisco Bay Area,I875,R1993
+953,Micron Technology Inc,Hardware,45600,48000,Boise,I813,R1926
+1025,Zoom Video Communications Inc,Other,7367,8667,San Francisco Bay Area,I844,R1993
+1026,eBay Inc,Retail,12000,12500,San Francisco Bay Area,I546,R1993
+1084,PayPal Holdings Inc,Finance,26571,28571,San Francisco Bay Area,I171,R1993
+1171,Alphabet Inc Class C,Consumer,188000,200000,San Francisco Bay Area,I644,R1993
+1204,Microsoft Corp,Other,190000,200000,Seattle,I398,R1415
+1498,DoorDash Inc,Food,19583,20833,San Francisco Bay Area,I317,R1993
+1587,Cisco Systems Inc,Infrastructure,77900,82000,San Francisco Bay Area,I498,R1993
+2303,Netflix Inc,Media,9700,10000,San Francisco Bay Area,I235,R1993
+1086,Workday Inc,HR,16975,17500,San Francisco Bay Area,I958,R1993
+1172,Wayfair Inc,Retail,16530,17400,Boston,I125,R1084

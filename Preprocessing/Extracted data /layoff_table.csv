@@ -1,0 +1,31 @@
+EventID,Date,Type,CompanyID
+1354,2023-12-18,Restructuring,6
+8872,2023-12-13,Downsizing,21
+7921,2023-11-28,Cost Reduction,56
+2004,2023-11-12,Automation,91
+5058,2023-08-14,Restructuring,311
+5604,2023-06-21,Cost Reduction,504
+5541,2023-06-14,Outsourcing,530
+1283,2023-06-12,Downsizing,540
+1127,2023-06-06,Automation,562
+6647,2023-05-16,Relocation,628
+2440,2023-04-27,Restructuring,688
+1479,2023-04-27,Restructuring,690
+5811,2023-04-21,Automation,709
+1367,2023-04-20,Cost Reduction,712
+1415,2023-04-18,Outsourcing,721
+2768,2023-03-28,Merger or Acquisition,800
+6641,2023-03-20,Cost Reduction,829
+8735,2023-03-14,Outsourcing,846
+9404,2023-03-01,Automation,895
+3804,2023-02-17,Automation,953
+8393,2023-02-07,Relocation,1025
+1351,2023-02-07,Merger or Acquisition,1026
+9378,2023-01-31,Cost Reduction,1084
+2987,2023-01-20,Restructuring,1171
+6292,2023-01-18,Downsizing,1204
+8439,2023-03-01,Outsourcing,1498
+9721,2023-08-18,Automation,1587
+3587,2023-04-28,Merger or Acquisition,2303
+1151,2023-01-31,Downsizing,1086
+6770,2023-01-20,Outsourcing,1172
